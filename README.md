@@ -1,6 +1,4 @@
-# How to Cite
-Ghanbarian, B. (2021). Soil water retention & unsat hydraulic conductivity curves, HydroShare, http://www.hydroshare.org/resource/53be7b9e275746c0868956bc46781204<br>
-## 自用CSGO配置文件
+# 自用CSGO配置文件
 ## 文件简介
 butterfly.cfg 为生成蝴蝶刀 `需要开启作弊模式`<br>
 exercise.cfg 为在当前地图开启训练模式 <br>
