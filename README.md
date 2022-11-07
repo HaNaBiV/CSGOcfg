@@ -8,4 +8,4 @@ ebot.cfg 为开启连跳模式 <br>
 将cfg文件放入`Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg`路径中<br>
 进入游戏之后 按`~`开启控制台，在控制台中输入`exec ebot.cfg`<br>
 即可运指定cfg文件<br>
-[中国知网](https://kns.cnki.net/kns8 "https://kns.cnki.net/kns8")<br>
+[本站地址](https://github.com/HaNaBiV/CSGOcfg.git "https://github.com/HaNaBiV/CSGOcfg.git")<br>
