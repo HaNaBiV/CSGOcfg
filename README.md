@@ -3,3 +3,4 @@
 ## 文件简介
 butterfly.cfg 为生成蝴蝶刀 `需要开启作弊模式`<br>
 exercise.cfg 为在当前地图开启训练模式 <br>
+ebot.cfg 为开启连跳模式 <br>
